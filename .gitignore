@@ -1,0 +1,4 @@
+data/
+float_tflite_model
+quantized_tflite_model
+tf_speech_model.keras
